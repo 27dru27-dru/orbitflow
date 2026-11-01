@@ -1,4 +1,4 @@
-import { PillarAgent } from '@/components/PillarAgent';
+import { Lock } from 'lucide-react';
 
 export default function LoginPage() {
   return (
